@@ -1,32 +1,63 @@
-# Hola, soy Jaime 👋
+<div align="center">
 
-Estoy estudiando 2.º de Desarrollo de Aplicaciones Multiplataforma en Murcia. Aquí voy subiendo proyectos de clase y otros que he hecho por mi cuenta o con compañeros.
+# Jaime Navarro 👋
 
-Busco prácticas de DAM y mi primera oportunidad para trabajar como desarrollador. Actualmente estoy con **VoltaERP**, nuestro proyecto intermodular.
+### Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
-## Algunos proyectos
+Murcia, España · Buscando prácticas y mi primera oportunidad en desarrollo
 
-### [SpeedTrack Suite](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
-Mi proyecto de final de 1.º de DAM. Es una aplicación de escritorio para gestionar un circuito de motos: clientes, reservas, cursos, mantenimiento y compraventa de productos. Tiene distintos roles de usuario y guarda los datos en ficheros.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimenavarro13/)
+[![Repositorios](https://img.shields.io/badge/Mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeNavarro13?tab=repositories)
+
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square)
+
+</div>
+
+---
+
+## Sobre mí
+
+Estoy en **2.º de DAM** y aquí comparto proyectos de clase y otros que he desarrollado con compañeros. He trabajado con aplicaciones de escritorio, desarrollo web y bases de datos.
+
+Ahora estoy con **VoltaERP**, nuestro proyecto intermodular. Busco unas prácticas donde pueda aportar lo que he aprendido y seguir formándome con un equipo.
+
+## 🚀 Proyectos
+
+### 🏍️ [SpeedTrack Suite](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
+
+Mi proyecto de final de 1.º de DAM: una aplicación de escritorio para gestionar un circuito de motos. Incluye clientes, reservas, cursos, mantenimiento, compras y ventas, con distintos roles de usuario y guardado de datos en ficheros.
 
 **Java · JavaFX · Maven**
 
-### [VoltaERP](https://github.com/VoltaERP/VoltaERP)
-Un ERP web que estamos desarrollando en un equipo de cinco personas para el proyecto intermodular de DAM. La idea es gestionar clientes, proveedores, productos, compras y facturas. Todavía está en desarrollo.
+### ⚡ [VoltaERP](https://github.com/VoltaERP/VoltaERP) · En desarrollo
+
+ERP web que estamos construyendo en un equipo de cinco personas para el proyecto intermodular. Está orientado a gestionar clientes, proveedores, inventario y facturación. Nos organizamos con Jira, sprints y pull requests.
 
 **Angular · Node.js · Express · Sequelize · PostgreSQL**
 
-### [FinHub](https://github.com/JaimeNavarro13/FinHub)
-Una aplicación de finanzas personales que desarrollamos entre dos. Permite reunir cuentas bancarias, movimientos y presupuestos en un mismo sitio. El trabajo lo fuimos haciendo de forma compartida.
+### 💳 [FinHub](https://github.com/JaimeNavarro13/FinHub)
+
+Aplicación de finanzas personales para reunir cuentas bancarias, movimientos y presupuestos. La desarrollamos entre dos personas, compartiendo el trabajo en las distintas partes de la aplicación.
 
 **Next.js · React · FastAPI · PostgreSQL**
 
-## Lo que estoy aprendiendo
+## 🛠️ Tecnologías con las que voy trabajando
 
-En DAM trabajo con Java, SQL y desarrollo de aplicaciones. Con los proyectos también voy aprendiendo desarrollo web y a trabajar en equipo usando Git, GitHub y Jira.
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Además, tengo la certificación **AWS Certified Cloud Practitioner**.
+También trabajo con **JavaFX, SQL y Oracle** durante mi formación.
 
-## Contacto
+---
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jaimenavarro13/).
+<div align="center">
+
+**¿Hablamos?** Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/jaimenavarro13/).
+
+</div>
