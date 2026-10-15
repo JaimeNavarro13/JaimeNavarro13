@@ -1,79 +1,32 @@
-<div align="center">
+# Hola, soy Jaime 👋
 
-# 👋 Jaime Navarro
+Estoy estudiando 2.º de Desarrollo de Aplicaciones Multiplataforma en Murcia. Aquí voy subiendo proyectos de clase y otros que he hecho por mi cuenta o con compañeros.
 
-### Del box al código. Siempre construyendo la siguiente versión.
+Busco prácticas de DAM y mi primera oportunidad para trabajar como desarrollador. Actualmente estoy con **VoltaERP**, nuestro proyecto intermodular.
 
-**Estudiante de 2.º de DAM · Murcia, España**
+## Algunos proyectos
 
-[![LinkedIn](https://img.shields.io/badge/Hablamos_en_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jaimenavarro13/)
-[![Proyectos](https://img.shields.io/badge/Explora_mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeNavarro13?tab=repositories)
+### [SpeedTrack Suite](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
+Mi proyecto de final de 1.º de DAM. Es una aplicación de escritorio para gestionar un circuito de motos: clientes, reservas, cursos, mantenimiento y compraventa de productos. Tiene distintos roles de usuario y guarda los datos en ficheros.
 
-![Buscando prácticas](https://img.shields.io/badge/Buscando_pr%C3%A1cticas-22C55E?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square)
+**Java · JavaFX · Maven**
 
-</div>
+### [VoltaERP](https://github.com/VoltaERP/VoltaERP)
+Un ERP web que estamos desarrollando en un equipo de cinco personas para el proyecto intermodular de DAM. La idea es gestionar clientes, proveedores, productos, compras y facturas. Todavía está en desarrollo.
 
----
+**Angular · Node.js · Express · Sequelize · PostgreSQL**
 
-## 🧑‍💻 El piloto
+### [FinHub](https://github.com/JaimeNavarro13/FinHub)
+Una aplicación de finanzas personales que desarrollamos entre dos. Permite reunir cuentas bancarias, movimientos y presupuestos en un mismo sitio. El trabajo lo fuimos haciendo de forma compartida.
 
-Soy **Jaime Navarro Martínez**, estudiante de Desarrollo de Aplicaciones Multiplataforma. Me gusta convertir ideas en aplicaciones útiles: desde gestionar un circuito de motor hasta organizar las finanzas o construir un ERP con un equipo.
+**Next.js · React · FastAPI · PostgreSQL**
 
-Estoy buscando **prácticas y mi primera oportunidad profesional en desarrollo**. Quiero aprender de gente con experiencia, aportar y seguir mejorando con proyectos reales.
+## Lo que estoy aprendiendo
 
-```java
-while (hayBugs) {
-    investigar();
-    aprender();
-    volverAIntentarlo();
-}
-// Si funciona a la primera, también se celebra.
-```
+En DAM trabajo con Java, SQL y desarrollo de aplicaciones. Con los proyectos también voy aprendiendo desarrollo web y a trabajar en equipo usando Git, GitHub y Jira.
 
-## 🏁 En la parrilla de salida
+Además, tengo la certificación **AWS Certified Cloud Practitioner**.
 
-### 🏍️ [SpeedTrack Suite](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
-**Un circuito también necesita software.**
+## Contacto
 
-Aplicación de escritorio para gestionar clientes, motos, reservas, cursos, mantenimiento, compras y ventas. Incluye acceso por roles, panel de indicadores y persistencia mediante serialización.
-
-`Java` `JavaFX` `Maven`
-
-### ⚡ [VoltaERP](https://github.com/VoltaERP/VoltaERP)
-**Cinco personas, un ERP y unos cuantos pull requests.**
-
-Proyecto intermodular de DAM **en desarrollo**. Estamos construyendo un ERP web para gestionar clientes, proveedores, inventario y facturación, organizados con Jira y sprints.
-
-`Angular` `Node.js` `Express` `Sequelize` `PostgreSQL`
-
-### 💸 [FinHub](https://github.com/JaimeNavarro13/FinHub)
-**Para que los gastos dejen de jugar al escondite.**
-
-Aplicación web de finanzas personales para reunir cuentas, movimientos y presupuestos. Desarrollada entre dos personas, con trabajo compartido en las distintas partes del proyecto.
-
-`Next.js` `React` `FastAPI` `PostgreSQL`
-
-## 🧰 Dentro de la caja de herramientas
-
-| Área | Tecnologías y herramientas |
-| :--- | :--- |
-| Aplicaciones de escritorio | Java · JavaFX |
-| Desarrollo web | JavaScript · TypeScript · Angular · Node.js |
-| Bases de datos | SQL · PostgreSQL · Oracle |
-| Entorno de trabajo | Git · GitHub · Linux |
-| Certificación | AWS Certified Cloud Practitioner |
-
-## 🎯 Siguiente checkpoint
-
-Encontrar un equipo donde hacer mis prácticas de DAM, aportar lo que ya sé y aprender todo lo que me queda.
-
-**¿Hablamos? → [LinkedIn](https://www.linkedin.com/in/jaimenavarro13/)**
-
----
-
-<div align="center">
-
-**Menos ideas aparcadas. Más proyectos en marcha. 🏍️**
-
-</div>
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jaimenavarro13/).
