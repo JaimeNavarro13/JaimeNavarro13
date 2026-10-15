@@ -1,63 +1,68 @@
-<div align="center">
+<p align="left"><samp>jaimenavarro13 / perfil</samp></p>
 
-# Jaime Navarro 👋
+# Jaime Navarro
+### Desarrollo de aplicaciones · Murcia
 
-### Estudiante de Desarrollo de Aplicaciones Multiplataforma
+Estudio **2.º de DAM** y busco prácticas y mi primera oportunidad en desarrollo de software. Aquí puedes ver parte de lo que voy construyendo, tanto por mi cuenta como con compañeros.
 
-Murcia, España · Buscando prácticas y mi primera oportunidad en desarrollo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimenavarro13/)
-[![Repositorios](https://img.shields.io/badge/Mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeNavarro13?tab=repositories)
-
-![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square)
-
-</div>
+**[LinkedIn ↗](https://www.linkedin.com/in/jaimenavarro13/)** &nbsp; / &nbsp; **[Repositorios ↗](https://github.com/JaimeNavarro13?tab=repositories)**
 
 ---
 
-## Sobre mí
+### Ahora
 
-Estoy en **2.º de DAM** y aquí comparto proyectos de clase y otros que he desarrollado con compañeros. He trabajado con aplicaciones de escritorio, desarrollo web y bases de datos.
+Estoy trabajando en **[VoltaERP](https://github.com/VoltaERP/VoltaERP)** con un equipo de cinco personas. Es nuestro proyecto intermodular: un ERP web que estamos desarrollando con Angular y Node.js, organizándonos con Jira, sprints y pull requests.
 
-Ahora estoy con **VoltaERP**, nuestro proyecto intermodular. Busco unas prácticas donde pueda aportar lo que he aprendido y seguir formándome con un equipo.
+### Proyectos seleccionados
 
-## 🚀 Proyectos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏍️ [SpeedTrack Suite](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
+#### [01 / SpeedTrack Suite ↗](https://github.com/JaimeNavarro13/SpeedTrack-Suite)
 
-Mi proyecto de final de 1.º de DAM: una aplicación de escritorio para gestionar un circuito de motos. Incluye clientes, reservas, cursos, mantenimiento, compras y ventas, con distintos roles de usuario y guardado de datos en ficheros.
+**Aplicación de escritorio**
 
-**Java · JavaFX · Maven**
+Mi proyecto de final de 1.º de DAM. Gestión de un circuito de motos: clientes, reservas, cursos, mantenimiento y compraventa de productos. Incluye roles de usuario y persistencia en ficheros.
 
-### ⚡ [VoltaERP](https://github.com/VoltaERP/VoltaERP) · En desarrollo
+<sub>JAVA · JAVAFX · MAVEN</sub>
 
-ERP web que estamos construyendo en un equipo de cinco personas para el proyecto intermodular. Está orientado a gestionar clientes, proveedores, inventario y facturación. Nos organizamos con Jira, sprints y pull requests.
+</td>
+<td width="50%" valign="top">
 
-**Angular · Node.js · Express · Sequelize · PostgreSQL**
+#### [02 / VoltaERP ↗](https://github.com/VoltaERP/VoltaERP)
 
-### 💳 [FinHub](https://github.com/JaimeNavarro13/FinHub)
+**ERP web · En desarrollo**
 
-Aplicación de finanzas personales para reunir cuentas bancarias, movimientos y presupuestos. La desarrollamos entre dos personas, compartiendo el trabajo en las distintas partes de la aplicación.
+Proyecto en equipo para gestionar clientes, proveedores, inventario y facturación. Todavía estamos construyendo sus módulos.
 
-**Next.js · React · FastAPI · PostgreSQL**
+<sub>ANGULAR · NODE.JS · EXPRESS · POSTGRESQL</sub>
 
-## 🛠️ Tecnologías con las que voy trabajando
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+#### [03 / FinHub ↗](https://github.com/JaimeNavarro13/FinHub)
 
-También trabajo con **JavaFX, SQL y Oracle** durante mi formación.
+**Finanzas personales**
+
+Aplicación web para reunir cuentas bancarias, movimientos y presupuestos. La desarrollamos entre dos personas, compartiendo el trabajo en las distintas partes del proyecto.
+
+<sub>NEXT.JS · REACT · FASTAPI · POSTGRESQL</sub>
+
+</td>
+</tr>
+</table>
+
+### Con qué trabajo
+
+**Java y JavaFX** para escritorio. **JavaScript, TypeScript, Angular y Node.js** en los proyectos web. **SQL, PostgreSQL y Oracle** para bases de datos.
+
+En el día a día también uso **Git, GitHub y Linux**. Sigo aprendiendo estas herramientas a través de las clases y los proyectos.
+
+**Certificación:** AWS Certified Cloud Practitioner.
 
 ---
 
-<div align="center">
-
-**¿Hablamos?** Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/jaimenavarro13/).
-
-</div>
+¿Tienes una oportunidad de prácticas? **[Puedes escribirme por LinkedIn ↗](https://www.linkedin.com/in/jaimenavarro13/)**
